@@ -15,6 +15,14 @@ input('Распаковка вирус пака...')
 print('Безуспешно, запуск Змейка.exe')
 input('А теперь поиграйте в мою змейку, нажмите enter для продолжения')
 
+
+
+
+
+
+
+
+
 import turtle
 import time
 import random
